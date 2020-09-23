@@ -76,6 +76,8 @@ textarea {
   background-color: var(--secondaryColor);
   border-bottom: 1px solid var(--borderColor);
   overflow: auto;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .main-container {
   width: 1200px;
@@ -255,14 +257,21 @@ textarea {
   display: flex;
   justify-content: space-evenly;
   background-color: var(--previewShadow);
+  margin-top: 15px;
 }
 .social-links {
   display: grid;
   align-content: center;
   text-align: center;
 }
+
 #social_img {
   width: 100%;
+  border: 1.5px solid #17a2b8;
+  -webkit-box-shadow: 10px 10px 19px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 19px -2px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 19px -2px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
 }
 .post-wrapper {
   display: grid;
