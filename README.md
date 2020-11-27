@@ -4,8 +4,8 @@ Color-changing portfolio utilizing HTML, CSS, Javascript
 ## GITHUB USER: vanessabau
 ## GITHUB EMAIL: null
 # ![vanessabau](https://avatars2.githubusercontent.com/u/59780981?v=4)
-## Click video link below to watch demo
-# [![Watch the video](https://raw.githubusercontent.com/vanessabau/ReadMe-generator/master/Screen%20Shot%202020-06-03%20at%2011.41.56%20AM.png)](https://youtu.be/-mkFih5QBos)
+## Click link below to visit deployed application
+# [![Watch the video](https://raw.githubusercontent.com/vanessabau/ReadMe-generator/master/Screen%20Shot%202020-06-03%20at%2011.41.56%20AM.png)](https://vanessaro-portfolio.herokuapp.com/)
 ## TABLE OF CONTENTS
 1. [Installation](###Installation)
 2. [Useage](###Useage)
