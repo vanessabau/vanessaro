@@ -2,10 +2,10 @@
 Color-changing portfolio utilizing HTML, CSS, Javascript
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ## GITHUB USER: vanessabau
-## GITHUB EMAIL: null
+## EMAIL: vanessawebdev@gmail.com
 # ![vanessabau](https://avatars2.githubusercontent.com/u/59780981?v=4)
 ## Click link below to visit deployed application
-# [![Watch the video](https://raw.githubusercontent.com/vanessabau/ReadMe-generator/master/Screen%20Shot%202020-06-03%20at%2011.41.56%20AM.png)](https://vanessaro-portfolio.herokuapp.com/)
+# [![Watch the video](https://raw.githubusercontent.com/vanessabau/vanessaro/master/images/vanessaro%20-%201.png)](https://vanessaro-portfolio.herokuapp.com/)
 ## TABLE OF CONTENTS
 1. [Installation](###Installation)
 2. [Useage](###Useage)
