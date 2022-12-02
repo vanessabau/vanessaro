@@ -5,7 +5,7 @@ Color-changing portfolio utilizing HTML, CSS, Javascript
 ## EMAIL: vanessawebdev@gmail.com
 # ![vanessabau](https://avatars2.githubusercontent.com/u/59780981?v=4)
 ## Click link below to visit deployed application
-# [![Watch the video](https://raw.githubusercontent.com/vanessabau/vanessaro/master/images/vanessaro%20-%201.png)](https://vanessaro-portfolio.herokuapp.com/)
+# [![Watch the video](https://raw.githubusercontent.com/vanessabau/vanessaro/master/images/vanessaro%20-%201.png)](https://vanessaro.vercel.app/)
 ## TABLE OF CONTENTS
 1. [Installation](###Installation)
 2. [Useage](###Useage)
